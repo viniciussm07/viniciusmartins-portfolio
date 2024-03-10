@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://viniciusmartins.vercel.app/sitemap.xml

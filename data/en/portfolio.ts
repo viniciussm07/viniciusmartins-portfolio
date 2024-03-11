@@ -2,8 +2,8 @@ import { ProjectsInterface } from "../../components/section/portfolio/types"
 
 const projects: ProjectsInterface[] = [
   {
-    name: 'Sustento Energia Solar Website',
-    description: 'Website made focused in SEO and have a good performance in fotovoltaic integrating field.',
+    name: 'Sustento Energia Solar Website + Blog',
+    description: 'Website and blog made focused in SEO and have a good performance in fotovoltaic integrating field.',
     imgSource: '/images/projects/website-sustento-min.webp',
     skills: ['React.js', 'Next.js', 'Styled-components', 'Figma'],
     websiteUrl: 'https://sustentoenergiasolar.com.br/',

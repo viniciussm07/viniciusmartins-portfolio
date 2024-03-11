@@ -4,7 +4,7 @@ const projects: ProjectsInterface[] = [
   {
     name: 'Sustento Energia Solar Website + Blog',
     description:
-      'Website and blog made focused in SEO and have a good performance in fotovoltaic integrating field.',
+      'Website and blog, built with a focus on SEO and optimized performance in the photovoltaic integration field, utilizing technologies such as React, Next.js, and styled-components. The project is versioned using Git to ensure efficient collaboration and version control.',
     imgSource: '/images/projects/sustento-website-min.webp',
     skills: ['React.js', 'Next.js', 'Styled-components', 'Figma', 'Git'],
     websiteUrl: 'https://sustentoenergiasolar.com.br/'

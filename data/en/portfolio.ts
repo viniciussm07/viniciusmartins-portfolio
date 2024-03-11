@@ -16,6 +16,14 @@ const projects: ProjectsInterface[] = [
     imgSource: '/images/projects/tripppin-platform-min.webp',
     skills: ['AWS', 'EC2', 'Route53', 'Bash'],
     websiteUrl: 'https://tripppin.com/'
+  },
+  {
+    name: 'MG Energia Solar Landing Page',
+    description:
+      'The landing page is developed using Figma for prototyping, Git for versioning and team collaboration, while React and Next.js accelerate the development and deployment process. To ensure continuous updates, the site is deployed on Vercel, complemented by the configuration of Analytics scripts.',
+    imgSource: '/images/projects/mgsolar-landing-page-min.webp',
+    skills: ['React.js', 'Next.js', 'Git', 'Figma', 'Styled-components'],
+    websiteUrl: 'https://lp.mgesolar.com.br/'
   }
 ]
 

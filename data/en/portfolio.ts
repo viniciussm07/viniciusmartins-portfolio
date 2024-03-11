@@ -24,6 +24,15 @@ const projects: ProjectsInterface[] = [
     imgSource: '/images/projects/mgsolar-landing-page-min.webp',
     skills: ['React.js', 'Next.js', 'Git', 'Figma', 'Styled-components'],
     websiteUrl: 'https://lp.mgesolar.com.br/'
+  },
+  {
+    name: 'Rep Our Website',
+    description:
+      'Personal project to create a website for a student fraternity. The website is developed using React and Next.js, incorporating Tailwind for styling. The project is versioned using Git and deployed on Vercel. Additionally, the website is integrated with both Google Analytics and Google Tag Manager.',
+    imgSource: '/images/projects/republica-our-website-min.webp',
+    skills: ['React.js', 'Next.js', 'Git', 'Tailwind'],
+    websiteUrl: 'https://republicaour.vercel.app/',
+    githubUrl: 'https://github.com/viniciussm07/repour'
   }
 ]
 

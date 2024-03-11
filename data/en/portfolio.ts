@@ -12,7 +12,7 @@ const projects: ProjectsInterface[] = [
   {
     name: 'Tripppin Platform',
     description:
-      'Configuration and deployment of an EC2 instance on AWS, along with the creation of a Route 53 configuration to associate the domain with the instance. Additionally, I have developed a bash script to automate the deployment process.',
+      "Configuration and deployment of an EC2 instance on AWS for running the platform application, including the setup of a Route 53 configuration to link the domain with the instance. Additionally, I've created a bash script to automate the deployment process",
     imgSource: '/images/projects/tripppin-platform-min.webp',
     skills: ['AWS', 'EC2', 'Route53', 'Bash'],
     websiteUrl: 'https://tripppin.com/'

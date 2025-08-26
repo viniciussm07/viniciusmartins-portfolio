@@ -50,11 +50,6 @@ const skills: SkillsInterface[] = [
       expTime: () => getExperienceTime(new Date("2022-12-07")),
       icon: FaAws
     },
-    {
-        name: 'React Native',
-        expTime: () => getExperienceTime(new Date("2024-03-01")),
-        icon: FaReact
-      },
 ]
 
 

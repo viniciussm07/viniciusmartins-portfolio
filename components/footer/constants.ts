@@ -17,7 +17,7 @@ export const footerSocialLinks: footerSocialLinksProps[] = [
   },
   {
     label: 'Linkedin Profile',
-    link: 'https://www.linkedin.com/in/vinicius-martins/',
+    link: 'https://www.linkedin.com/in/vinicius-soares-martins/',
     icon: FaLinkedin
   },
   {

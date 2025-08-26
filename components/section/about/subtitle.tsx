@@ -17,10 +17,10 @@ const Subtitle: React.FC<SubtitleInterface> = ({ email }) => {
     >
       <Heading as="h2" fontSize={{ sm: 'xl', lg: '3xl' }}>
         <Text fontWeight="light" display="inline">
-          Full
+          Software
         </Text>
         <Text fontWeight="bold" display="inline">
-          Stack
+          Engineer
         </Text>
       </Heading>
 

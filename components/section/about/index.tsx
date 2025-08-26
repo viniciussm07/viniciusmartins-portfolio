@@ -91,7 +91,7 @@ const About: React.FC = () => {
 
           <Link
             isExternal
-            href="https://www.linkedin.com/in/vinicius-marttins/"
+            href="https://www.linkedin.com/in/vinicius-soares-martins/"
             _hover={{ textDecor: 'none' }}
           >
             <Button

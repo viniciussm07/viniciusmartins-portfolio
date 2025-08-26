@@ -16,18 +16,13 @@ const services: ServicesInterface[] = [
     icon: MdLaptopMac
   },
   {
-    name: 'Mobile Applications',
-    description: 'Development of multi-platform apps, using modern like React Native, Expo and Firebase.',
-    icon: GiSmartphone
-  },
-  {
     name: 'APIs Development',
     description: 'Developing APIs using modern technologies like GraphQL and REST. Always with a good and clean code.',
     icon: FaServer
   },
   {
       name: 'Cloud Services',
-      description: 'Provisioning and managing AWS EC2 Instances, Route 53, S3 Buckets, RDS, and other cloud services.',
+      description: 'Provisioning and managing AWS EC2 Instances, Route 53, S3 Buckets, RDS, CloudFront, Lambda and other cloud services.',
       icon: FaCloud
     },
 ]
